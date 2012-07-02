@@ -1,0 +1,265 @@
+
+;; ----- ido-last-directory-list -----
+(
+ ("/ssh:focusproject2010.com:/var/www/" . "focalproject/")
+ ("/ssh:artistswanted.org:/var/www/aw-development/aw-refactored/branches/" . "new3woc/")
+ ("/ssh:artistswanted.org:/var/www/aw-development/aw-refactored/" . "branches/")
+ ("/ssh:onelifephotos.com:/var/www/" . "onelifephotos/")
+ ("/ssh:onelifephotos.com:www/" . "onelifephotos/")
+ ("/ssh:arttakesmiami.com:/" . "var/")
+ ("/Users/chris/" . ".emacs.d/")
+ ("/Users/" . "chris/")
+ ("/" . "Users/")
+ ("/ssh:arttakesmiami.com:/var/www/" . "arttakesmiami/")
+ ("/ssh:artistswanted.org:/var/www/" . "aw-production/")
+ ("/Users/chris/Documents/" . "artistswanted/")
+ ("/Users/chris/Workspace/" . "see.me-trunk/")
+ ("/ssh:3rdwardopencall.com:" . "www/")
+ ("/ssh:onelifephotos.com:" . "www/")
+ ("/ssh:173.203.51.165:www/" . "onelifephotos/")
+ ("/ssh:173.203.51.165:" . "www/")
+ ("/ssh:3rdwardopencall.com:www/" . "new3woc/")
+ ("/ssh:chris@3rdwardopencall.com:" . "www/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/chris/.emacs.d/global/"
+ "/Applications/Aquamacs.app/Contents/Resources/lisp/"
+ "/Users/chris/.rvm/gems/ruby-1.9.2-p290/gems/vagrant-0.9.7/lib/vagrant/provisioners/"
+ "/Users/chris/Workspace/p2pudev/"
+ "/Users/chris/Workspace/spinsassets/"
+ "/Users/chris/Workspace/spinsassets/app/controllers/"
+ "/Users/chris/.emacs.d/el-get/ruby-mode/"
+ "/Users/chris/.emacs.d/el-get/flymake-ruby/"
+ "/Users/chris/.emacs.d/package-configs/"
+ "/Users/chris/Workspace/spinsassets/app/models/"
+ "/Users/chris/.emacs.d/el-get/auto-complete-ruby/"
+ "/Users/chris/.emacs.d/"
+ "/Users/chris/.emacs.d/mkcode/"
+ "/Users/chris/.emacs.d/vendor/yasnippet/"
+ "/Users/chris/"
+ "/ssh:chrisewald.com:"
+ "/Users/chris/Workspace/sm-test/"
+ "/Users/chris/Workspace/real11/panel/js/services/"
+ "/Users/chris/Workspace/real11/panel/js/"
+ "/Users/chris/Workspace/real11/test/"
+ "/Users/chris/Workspace/real11/agent_sites/modules/"
+ "/Users/chris/Workspace/real11/agent_sites/components/"
+ "/Users/chris/Workspace/real11/"
+ "/Users/chris/Workspace/artistswanted/"
+ "/Users/chris/Workspace/lernanta/templates/"
+ "/Users/chris/.emacs.d/defunkt/"
+ "/Users/chris/.emacs-lib/defunkt/"
+ "/Users/chris/emacs/"
+ "/ssh:3rdwardopencall.com/"
+ "/Users/chris/Documents/"
+ "/ssh:3rdwardopencall.com:/home/chris/www/new3woc/"
+ "/ssh:arttakesmiami.com:/var/www/arttakesmiami/"
+ "/ssh:arttakesmiami.com:/var/www/arttakesmiami/includes/"
+ "/Users/chris/Workspace/aw-refactored-trunk/"
+ "/Users/chris/Workspace/olp-dev/"
+ "/Users/chris/.emacs-lib/"
+ "/Users/chris/Documents/artistswanted/"
+ "/Users/chris/Workspace/zown/config/"
+ "/ssh:onelifephotos.com:/home/chris/www/onelifephotos/includes/"
+ "/ssh:onelifephotos.com:/home/chris/www/onelifephotos/"
+ "/ssh:3rdwardopencall.com:www/artcall/"
+ "/ssh:173.203.51.165:/home/chris/www/onelifephotos/"
+ "/ssh:chris@3rdwardopencall.com:/home/chris/www/artcall/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "sr-speedbar.el"
+ "speedbar.el.gz"
+ "uniquify.el.gz"
+ "install.rb"
+ "dired.el"
+ "key-bindings.el"
+ "application_controller.rb"
+ "dashboard_controller.rb"
+ "global.el"
+ "ruby-mode.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/chris/Documents/" (20294 54149) "WorkAgreement_CEwald_signed.pdf" "Welcome to Life.rtf" "Virtual Machines.localized/" "Virtual Machines/" "TARA letter of Intent.pdf" "TARA letter of Intent.pages" "Super_Awesome_Advanced_CakePHP_Tips.pdf" "stuff.html" "Soundtrack Pro Documents/" "SciFi Books.rtf" "Resume.pages" "Resume Updated.pdf" "Resume Updated.pages" "Resume of Chris Ewald.pdf" "response.html" "References.rtf" "RDC Connections/" "Project Mix Images/" "powre.rtf" "Poems.rtf" "Poems for Paras.pages" "poems feb 23.rtf" "paras.rtf" "opencall-db-dump.sql" "onelife_2010-09-22.sql" "nice nice nice.rtf" "new3woc_2010-12-01.sql" "new3woc_2010-11-18.sql" "Native Instruments/" "login.tiff" "implulse.SDIRproj/" "Great Stuff.rtf" "ginger dump.kismac" "Credit Dispute.pdf" "BFD2 Manual.pdf" "atm.tiff" "artistswanted/" "About Stacks.pdf" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/chris/.emacs.d/package-configs/" (20287 29450) "init-yasnippet.el" "init-ruby-mode.el" "init-auto-complete.el" "../" "./")
+
+ ("/Users/chris/.rvm/gems/ruby-1.9.2-p290/gems/vagrant-0.9.7/lib/vagrant/provisioners/" (20287 37462) "shell.rb" "puppet_server.rb" "puppet.rb" "chef_solo.rb" "chef_client.rb" "chef.rb" "base.rb" "../" "./")
+
+ ("/Users/chris/.emacs.d/global/" (20287 42415) "tags.el" "tabs.el" "sr-speedbar.el" "shell.el" "key-bindings.el" "javascript.el" "ido.el" "global.el" "env.el" "dired.el" "defuns.el" "aquamacs-custom.el" "appearance.el" "../" "./")
+
+ ("/Users/chris/" (20292 36061) "www.focusproject2010.com.csr" "Workspace/" "thefocalproject.csr" "Terminal Saved Output.txt" "tb_imgLWIA78.jpg" "system.gems" "Sites/" "Sibelius62Full.dmg" "share/" "Public/" "Pictures/" "pgadmin.log" "onelifephotos.com.csr" "Music/" "mtsfmusic.zip" "Movies/" "Mohawk Trail State Forest/" "Mail/" "lifesong.band/" "Library/" "Ewald Infoex Worksheet.rtf" "el-get-install.el" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "bin/" "artistswanted.org.csr" "artakesmiami.com.csr" "23den.kismac" ".zshrc" ".zshist" ".zsh/" ".zcompdump" ".Xcode/" ".vimrc" ".viminfo" ".vim/" ".vagrant.d/" ".Trash/" ".todo" ".subversion/" ".ssh/" ".smex-items" ".sh_history" ".rvmrc" ".rvm/" ".rs/" ".razorsql/" ".psql_history" ".profile" ".pgpass" ".pgadmin_histoqueries" ".macports/" ".lesshst" ".irb_history" ".irb-history" ".ido.last~" ".ido.last" ".heroku/" ".gvimrc" ".gitconfig" ".gem/" ".eshell/" ".emacs.d-REALLY-GOOD/" ".emacs.d/" ".emacs-REALLY_GOOD" ".emacs-orig/" ".emacs-old-removed/" ".emacs-nnnnnnnneeeeewwwwwwww" ".emacs-good/" ".emacs" ".dvdcss/" ".DS_Store" ".dropbox/" ".DownloadManager/" ".cups/" ".cheat/" ".CFUserTextEncoding" ".cache/" ".bzr.log" ".bash_profile" ".bash_history" "../" "./")
+
+ ("/Users/chris/Workspace/p2pudev/" (20293 34060) "Vagrantfile" "ubuntu-server-11.10-x86.7z" "Ubuntu server 11.10/" "tmp/" "site-cookbooks/" "install.rb" "Gemfile.lock" "Gemfile" "cookbooks/" "Cheffile.lock" "Cheffile" ".git/" ".DS_Store" ".#install.rb" "../" "./")
+
+ ("/Applications/Aquamacs.app/Contents/Resources/lisp/" (20287 26508) "xt-mouse.elc" "xt-mouse.el.gz" "xml.elc" "xml.el.gz" "x-dnd.elc" "x-dnd.el.gz" "woman.elc" "woman.el.gz" "winner.elc" "winner.el.gz" "window.elc" "window.el.gz" "windmove.elc" "windmove.el.gz" "widget.elc" "widget.el.gz" "wid-edit.elc" "wid-edit.el.gz" "wid-browse.elc" "wid-browse.el.gz" "whitespace.elc" "whitespace.el.gz" "wdired.elc" "wdired.el.gz" "w32-vars.elc" "w32-vars.el.gz" "w32-fns.elc" "w32-fns.el.gz" "vt100-led.elc" "vt100-led.el.gz" "vt-control.elc" "vt-control.el.gz" "view.elc" "view.el.gz" "version.el" "vcursor.elc" "vcursor.el.gz" "vc.elc" "vc.el.gz" "vc-svn.elc" "vc-svn.el.gz" "vc-sccs.elc" "vc-sccs.el.gz" "vc-rcs.elc" "vc-rcs.el.gz" "vc-mtn.elc" "vc-mtn.el.gz" "vc-hooks.elc" "vc-hooks.el.gz" "vc-hg.elc" "vc-hg.el.gz" "vc-git.elc" "vc-git.el.gz" "vc-dispatcher.elc" "vc-dispatcher.el.gz" "vc-dir.elc" "vc-dir.el.gz" "vc-dav.elc" "vc-dav.el.gz" "vc-cvs.elc" "vc-cvs.el.gz" "vc-bzr.elc" "vc-bzr.el.gz" "vc-arch.elc" "vc-arch.el.gz" "vc-annotate.elc" "vc-annotate.el.gz" "userlock.elc" "userlock.el.gz" "url/" "uniquify.elc" "uniquify.el.gz" "type-break.elc" "type-break.el.gz" "tutorial.elc" "tutorial.el.gz" "tree-widget.elc" "tree-widget.el.gz" "tooltip.elc" "tooltip.el.gz" "tool-bar.elc" "tool-bar.el.gz" "tmm.elc" "tmm.el.gz" "timezone.elc" "timezone.el.gz" "time.elc" "time.el.gz" "time-stamp.elc" "time-stamp.el.gz" "thumbs.elc" "thumbs.el.gz" "thingatpt.elc" "thingatpt.el.gz" "textmodes/" "terminal.elc" "terminal.el.gz" "term.elc" "term.el.gz" "term/" "tempo.elc" "tempo.el.gz" "tar-mode.elc" "tar-mode.el.gz" "talk.elc" "talk.el.gz" "tabify.elc" "tabify.el.gz" "t-mouse.elc" "t-mouse.el.gz" "subr.elc" "subr.el.gz" "subdirs.el" "strokes.elc" "strokes.el.gz" "startup.elc" "startup.el.gz" "speedbar.elc" "speedbar.el.gz" "soundex.elc" "soundex.el.gz" "sort.elc" "sort.el.gz" "smerge-mode.elc" "smerge-mode.el.gz" "skeleton.elc" "skeleton.el.gz" "site-load.elc" "site-load.el.gz" "simple.elc" "simple.el.gz" "shell.elc" "shell.el.gz" "shadowfile.elc" "shadowfile.el.gz" "sha1.elc" "sha1.el.gz" "ses.elc" "ses.el.gz" "server.elc" "server.el.gz" "select.elc" "select.el.gz" "scroll-lock.elc" "scroll-lock.el.gz" "scroll-bar.elc" "scroll-bar.el.gz" "scroll-all.elc" "scroll-all.el.gz" "sb-image.elc" "sb-image.el.gz" "saveplace.elc" "saveplace.el.gz" "savehist.elc" "savehist.el.gz" "s-region.elc" "s-region.el.gz" "ruler-mode.elc" "ruler-mode.el.gz" "rot13.elc" "rot13.el.gz" "rfn-eshadow.elc" "rfn-eshadow.el.gz" "reveal.elc" "reveal.el.gz" "reposition.elc" "reposition.el.gz" "replace.elc" "replace.el.gz" "repeat.elc" "repeat.el.gz" "register.elc" "register.el.gz" "rect.elc" "rect.el.gz" "recentf.elc" "recentf.el.gz" "README" "ps-samp.elc" "ps-samp.el.gz" "ps-print.elc" "ps-print.el.gz" "ps-mule.elc" "ps-mule.el.gz" "ps-def.elc" "ps-def.el.gz" "ps-bdf.elc" "ps-bdf.el.gz" "progmodes/" "proced.elc" "proced.el.gz" "printing.elc" "printing.el.gz" "play/" "pgg.elc" "pgg.el.gz" "pgg-pgp5.elc" "pgg-pgp5.el.gz" "pgg-pgp.elc" "pgg-pgp.el.gz" "pgg-parse.elc" "pgg-parse.el.gz" "pgg-gpg.elc" "pgg-gpg.el.gz" "pgg-def.elc" "pgg-def.el.gz" "pcvs.elc" "pcvs.el.gz" "pcvs-util.elc" "pcvs-util.el.gz" "pcvs-parse.elc" "pcvs-parse.el.gz" "pcvs-info.elc" "pcvs-info.el.gz" "pcvs-defs.elc" "pcvs-defs.el.gz" "pcomplete.elc" "pcomplete.el.gz" "pcmpl-unix.elc" "pcmpl-unix.el.gz" "pcmpl-rpm.elc" "pcmpl-rpm.el.gz" "pcmpl-linux.elc" "pcmpl-linux.el.gz" "pcmpl-gnu.elc" "pcmpl-gnu.el.gz" "pcmpl-cvs.elc" "pcmpl-cvs.el.gz" "paths.el" "patcomp.el" "password-cache.elc" "password-cache.el.gz" "paren.elc" "paren.el.gz" "outline.elc" "outline.el.gz" "org/" "obsolete/" "nxml/" "novice.elc" "novice.el.gz" "newcomment.elc" "newcomment.el.gz" "net/" "mwheel.elc" "mwheel.el.gz" "msb.elc" "msb.el.gz" "mpc.elc" "mpc.el.gz" "mouse.elc" "mouse.el.gz" "mouse-sel.elc" "mouse-sel.el.gz" "mouse-drag.elc" "mouse-drag.el.gz" "mouse-copy.elc" "mouse-copy.el.gz" "misearch.elc" "misearch.el.gz" "misc.elc" "misc.el.gz" "minibuffer.elc" "minibuffer.el.gz" "minibuf-eldef.elc" "minibuf-eldef.el.gz" "midnight.elc" "midnight.el.gz" "mh-e/" "menu-bar.elc" "menu-bar.el.gz" "md4.elc" "md4.el.gz" "mb-depth.elc" "mb-depth.el.gz" "master.elc" "master.el.gz" "man.elc" "man.el.gz" "makesum.elc" "makesum.el.gz" "mail/" "macros.elc" "macros.el.gz" "ls-lisp.elc" "ls-lisp.el.gz" "lpr.elc" "lpr.el.gz" "longlines.elc" "longlines.el.gz" "log-view.elc" "log-view.el.gz" "log-edit.elc" "log-edit.el.gz" "locate.elc" "locate.el.gz" "loadup.el" "loadhist.elc" "loadhist.el.gz" "linum.elc" "linum.el.gz" "ledit.elc" "ledit.el.gz" "language/" "kmacro.elc" "kmacro.el.gz" "kermit.elc" "kermit.el.gz" "json.elc" "json.el.gz" "jka-compr.elc" "jka-compr.el.gz" "jka-cmpr-hook.elc" "jka-cmpr-hook.el.gz" "jit-lock.elc" "jit-lock.el.gz" "iswitchb.elc" "iswitchb.el.gz" "isearchb.elc" "isearchb.el.gz" "isearch.elc" "isearch.el.gz" "international/" "informat.elc" "informat.el.gz" "info.elc" "info.el.gz" "info-xref.elc" "info-xref.el.gz" "info-look.elc" "info-look.el.gz" "indent.elc" "indent.el.gz" "imenu.elc" "imenu.el.gz" "image.elc" "image.el.gz" "image-mode.elc" "image-mode.el.gz" "image-file.elc" "image-file.el.gz" "image-dired.elc" "image-dired.el.gz" "iimage.elc" "iimage.el.gz" "ielm.elc" "ielm.el.gz" "ido.elc" "ido.el.gz" "icomplete.elc" "icomplete.el.gz" "ibuffer.elc" "ibuffer.el.gz" "ibuf-macs.elc" "ibuf-macs.el.gz" "ibuf-ext.elc" "ibuf-ext.el.gz" "htmlfontify.elc" "htmlfontify.el.gz" "hl-line.elc" "hl-line.el.gz" "hippie-exp.elc" "hippie-exp.el.gz" "hilit-chg.elc" "hilit-chg.el.gz" "hi-lock.elc" "hi-lock.el.gz" "hfy-cmap.elc" "hfy-cmap.el.gz" "hexl.elc" "hexl.el.gz" "hex-util.elc" "hex-util.el.gz" "help.elc" "help.el.gz" "help-mode.elc" "help-mode.el.gz" "help-macro.elc" "help-macro.el.gz" "help-fns.elc" "help-fns.el.gz" "help-at-pt.elc" "help-at-pt.el.gz" "gs.elc" "gs.el.gz" "gnus/" "generic-x.elc" "generic-x.el.gz" "fringe.elc" "fringe.el.gz" "frame.elc" "frame.el.gz" "forms.elc" "forms.el.gz" "forms-pass.el" "forms-d2.el" "format.elc" "format.el.gz" "format-spec.elc" "format-spec.el.gz" "font-setting.elc" "font-setting.el.gz" "font-lock.elc" "font-lock.el.gz" "font-core.elc" "font-core.el.gz" "follow.elc" "follow.el.gz" "foldout.elc" "foldout.el.gz" "flow-ctrl.elc" "flow-ctrl.el.gz" "finder.elc" "finder.el.gz" "finder-inf.el" "find-lisp.elc" "find-lisp.el.gz" "find-file.elc" "find-file.el.gz" "find-dired.elc" "find-dired.el.gz" "find-cmd.elc" "find-cmd.el.gz" "filesets.elc" "filesets.el.gz" "files.elc" "files.el.gz" "files-x.elc" "files-x.el.gz" "filecache.elc" "filecache.el.gz" "ffap.elc" "ffap.el.gz" "fadr.elc" "fadr.el.gz" "faces.elc" "faces.el.gz" "facemenu.elc" "facemenu.el.gz" "face-remap.elc" "face-remap.el.gz" "ezimage.elc" "ezimage.el.gz" "expand.elc" "expand.el.gz" "eshell/" "erc/" "epg.elc" "epg.el.gz" "epg-config.elc" "epg-config.el.gz" "epa.elc" "epa.el.gz" "epa-mail.elc" "epa-mail.el.gz" "epa-hook.elc" "epa-hook.el.gz" "epa-file.elc" "epa-file.el.gz" "epa-dired.elc" "epa-dired.el.gz" "env.elc" "env.el.gz" "emulation/" "emerge.elc" "emerge.el.gz" "emacs-lock.elc" "emacs-lock.el.gz" "emacs-lisp/" "elide-head.elc" "elide-head.el.gz" "electric.elc" "electric.el.gz" "ehelp.elc" "ehelp.el.gz" "edmacro.elc" "edmacro.el.gz" "ediff.elc" "ediff.el.gz" "ediff-wind.elc" "ediff-wind.el.gz" "ediff-vers.elc" "ediff-vers.el.gz" "ediff-util.elc" "ediff-util.el.gz" "ediff-ptch.elc" "ediff-ptch.el.gz" "ediff-mult.elc" "ediff-mult.el.gz" "ediff-merg.elc" "ediff-merg.el.gz" "ediff-init.elc" "ediff-init.el.gz" "ediff-hook.elc" "ediff-hook.el.gz" "ediff-help.elc" "ediff-help.el.gz" "ediff-diff.elc" "ediff-diff.el.gz" "echistory.elc" "echistory.el.gz" "ebuff-menu.elc" "ebuff-menu.el.gz" "double.elc" "double.el.gz" "dos-w32.elc" "dos-w32.el.gz" "dos-vars.elc" "dos-vars.el.gz" "dos-fns.elc" "dos-fns.el.gz" "doc-view.elc" "doc-view.el.gz" "dnd.elc" "dnd.el.gz" "disp-table.elc" "disp-table.el.gz" "dirtrack.elc" "dirtrack.el.gz" "dired.elc" "dired.el.gz" "dired-x.elc" "dired-x.el.gz" "dired-aux.elc" "dired-aux.el.gz" "diff.elc" "diff.el.gz" "diff-mode.elc" "diff-mode.el.gz" "dframe.elc" "dframe.el.gz" "desktop.elc" "desktop.el.gz" "descr-text.elc" "descr-text.el.gz" "delsel.elc" "delsel.el.gz" "delim-col.elc" "delim-col.el.gz" "dabbrev.elc" "dabbrev.el.gz" "cvs-status.elc" "cvs-status.el.gz" "custom.elc" "custom.el.gz" "cus-theme.elc" "cus-theme.el.gz" "cus-start.elc" "cus-start.el.gz" "cus-load.el" "cus-face.elc" "cus-face.el.gz" "cus-edit.elc" "cus-edit.el.gz" "cus-dep.elc" "cus-dep.el.gz" "COPYING" "contrib/" "composite.elc" "composite.el.gz" "completion.elc" "completion.el.gz" "complete.elc" "complete.el.gz" "compare-w.elc" "compare-w.el.gz" "comint.elc" "comint.el.gz" "cmuscheme.elc" "cmuscheme.el.gz" "chistory.elc" "chistory.el.gz" "cedet/" "cdl.elc" "cdl.el.gz" "case-table.elc" "case-table.el.gz" "calendar/" "calculator.elc" "calculator.el.gz" "calc/" "button.elc" "button.el.gz" "buff-menu.elc" "buff-menu.el.gz" "bs.elc" "bs.el.gz" "bookmark.elc" "bookmark.el.gz" "bindings.elc" "bindings.el.gz" "battery.elc" "battery.el.gz" "avoid.elc" "avoid.el.gz" "autorevert.elc" "autorevert.el.gz" "autoinsert.elc" "autoinsert.el.gz" "autoarg.elc" "autoarg.el.gz" "array.elc" "array.el.gz" "arc-mode.elc" "arc-mode.el.gz" "aquamacs-faces.elc" "aquamacs-faces.el.gz" "aquamacs/" "apropos.elc" "apropos.el.gz" "ansi-color.elc" "ansi-color.el.gz" "allout.elc" "allout.el.gz" "align.elc" "align.el.gz" "add-log.elc" "add-log.el.gz" "abbrevlist.elc" "abbrevlist.el.gz" "abbrev.elc" "abbrev.el.gz" "../" "./")
+
+ ("/Applications/Aquamacs.app/Contents/Resources/Aquamacs Command Line Tool.mpkg/" (20135 5867) "Contents/" "../" "./")
+
+ ("/Users/chris/Workspace/" (20286 26837) "zown/" "whosingsth.at/" "vtigercrm-5.2.1.tar" "vtigercrm/" "testher/" "tester/" "spinsdev.tar.gz" "spinsdev-old/" "spinsdev/" "spinsassets-old/" "spinsassets/" "soundm/" "sm-test.zip" "sm-test/" "ruby-sm/" "real11/" "real-sync.sh" "p2pudev/" "lernanta/" "jquery.js" "convert-3.1.rb" "chrisewald.com/" "ce/" "artistswanted/" ".DS_Store" "../" "./")
+
+ ("/Users/chris/.emacs.d/" (20287 27867) "vendor/" "package-configs/" "init.el" "global/" "expansion/" "el-get/" "backups/" "auto-save-list/" ".ido.last~" ".ido.last" ".DS_Store" "../" "./")
+
+ ("/Applications/Aquamacs.app/Contents/Resources/lisp/cedet/" (20135 5838) "srecode.elc" "srecode.el.gz" "srecode/" "semantic.elc" "semantic.el.gz" "semantic/" "pulse.elc" "pulse.el.gz" "mode-local.elc" "mode-local.el.gz" "inversion.elc" "inversion.el.gz" "ede.elc" "ede.el.gz" "ede/" "data-debug.elc" "data-debug.el.gz" "cedet.elc" "cedet.el.gz" "cedet-idutils.elc" "cedet-idutils.el.gz" "cedet-global.elc" "cedet-global.el.gz" "cedet-files.elc" "cedet-files.el.gz" "cedet-cscope.elc" "cedet-cscope.el.gz" "../" "./")
+
+ ("/Applications/Aquamacs.app/Contents/Resources/" (20135 5889) "var/" "subdirs.el" "lisp/" "leim/" "info/" "etc/" "English.lproj/" "document.icns" "Credits.html" "Aquamacs.icns" "Aquamacs Help/" "Aquamacs Command Line Tool.mpkg/" "../" "./")
+
+ ("/Applications/Aquamacs.app/Contents/MacOS/bin/" (20136 38828) "vcdiff" "update-game-score" "sorted-doc" "rcs2log" "rcs-checkin" "profile" "movemail" "hexl" "grep-changelog" "fakemail" "etags" "emacsclient" "ebrowse" "digest-doc" "ctags" "b2m" "../" "./")
+
+ ("/Applications/Aquamacs.app/Contents/MacOS/libexec/" (20136 38828) "vcdiff" "update-game-score" "sorted-doc" "rcs2log" "profile" "movemail" "hexl" "fakemail" "digest-doc" "../" "./")
+
+ ("/Applications/Aquamacs.app/Contents/MacOS/" (20136 38828) "libexec/" "bin/" "Aquamacs" "../" "./")
+
+ ("/Applications/Aquamacs.app/Contents/" (20263 58155) "Resources/" "PkgInfo" "MacOS/" "Info.plist" "../" "./")
+
+ ("/Applications/Aquamacs.app/" (20135 5877) "Contents/" "../" "./")
+
+ ("/Applications/" (20264 36549) "WaveBurner.app/" "VMware Fusion.app/" "VLC.app/" "VirtualBox.app/" "Utilities/" "Transmission.app/" "Transmission Remote GUI.app/" "Time Machine.app/" "TextMate.app/" "TextEdit.app/" "System Preferences.app/" "Swinsian.app/" "Stickies.app/" "Soundtrack Pro.app/" "Skype.app/" "SerialSeeker.app/" "Sequel Pro.app/" "Safari.app/" "Remote Desktop Connection.app/" "QuickTime Player.app/" "Preview.app/" "Photo Booth.app/" "pgAdmin3.app/" "Native Instruments/" "Murky.app/" "Miro.app/" "Melodyne editor/" "Melodyne 3.2/" "MAMP/" "MainStage.app/" "Mail.app/" "MacVim.app/" "M-Audio FireWire.app/" "Logic Pro.app/" "Logic Pro alias" "Logic Pro 9.0.0.app/" "Logic Node.app/" "Logic Node 9.0.0.app/" "KisMAC.app/" "KisMAC Newer.app/" "KisMAC 2.app/" "Keka.app/" "iWork '09/" "iTunes.app/" "iSync.app/" "Image Capture.app/" "iChat.app/" "iCal.app/" "fseventer.app/" "Front Row.app/" "Font Book.app/" "Flux.app/" "Firefox.app/" "Emacs.app/" "DVD Player.app/" "Dropbox.app/" "DOSBox.app/" "Dolphin.app/" "Dictionary.app/" "Dashboard.app/" "Cyberduck.app/" "Compressor.app/" "Colloquy.app/" "Chess.app/" "Calculator.app/" "BetterTouchTool.app/" "Automator.app/" "Aquamacs.app/" "Apple Qmaster.app/" "Apple Qadministrator.app/" "App Store.app/" "Alarm Clock.app/" "Address Book.app/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/chris/Library/" (19908 62176) "Voices/" "VirtualBox/" "StickiesDatabase" "Sounds/" "Screen Savers/" "Safari/" "PubSub/" "Printers/" "Preferences/" "PreferencePanes/" "Phones/" "PDF Services/" "Mail/" "Logs/" "Keychains/" "Keyboard Layouts/" "iTunes/" "Internet Plug-Ins/" "Input Methods/" "iMovie/" "Google/" "Fonts/" "FontCollections/" "Favorites/" "Cookies/" "Contextual Menu Items/" "Compositions/" "ColorSync/" "Colors/" "ColorPickers/" "Calendars/" "Caches/" "Autosave Information/" "Audio/" "Assistants/" "Application Support/" "Address Book Plug-Ins/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/chris/.emacs.d/vendor/" (20287 21836) "sr-speedbar.elc" "sr-speedbar.el" "rcodetools.elc" "rcodetools.el" ".#sr-speedbar.el" "../" "./")
+
+ ("/Users/chris/Workspace/spinsassets/app/models/" (20285 20976) "user.rb" "usage_data.rb" "sysop.rb" "station.rb" "sales_lead.rb" "request.rb" "profile.rb" "possible_request.rb" "point.rb" "old_user.rb" "market.rb" "itunes.rb" "ip2location.rb" "credit_card.rb" "auto_complete.rb" "artist.rb" "applicant.rb" "analytics.rb" "affiliation.rb" "../" "./")
+
+ ("/Users/chris/Workspace/spinsassets/app/controllers/" (20285 20976) "wallslurp_controller.rb" "users_controller.rb" "twitter_oauth_controller.rb" "stations_controller.rb" "signup_controller.rb" "requests_controller.rb" "profiles_controller.rb" "pricing_controller.rb" "preview_controller.rb" "music_meeting_controller.rb" "markets_controller.rb" "legal_controller.rb" "iphone_controller.rb" "home_controller.rb" "geolocate_controller.rb" "embed_controller.rb" "dashboard_controller.rb" "coming_soon_controller.rb" "backoffice_controller.rb" "auto_complete_controller.rb" "artists_controller.rb" "application_controller.rb" "applicants_controller.rb" "api_controller.rb" "../" "./")
+
+ ("/Users/chris/Workspace/spinsassets/" (20285 20976) "vendor/" "ssl-cert/" "spec/" "script/" "README" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "doc/" "db/" "config.ru" "config/" "build/" "app/" ".sass-cache/" ".rvmrc" ".rspec" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/chris/.emacs.d/el-get/ruby-mode/" (20264 54389) "ruby-mode.elc" "ruby-mode.el" "ruby-mode-pkg.elc" "ruby-mode-pkg.el" "ruby-mode-autoloads.el" "../" "./")
+
+ ("/Users/chris/.emacs.d/el-get/flymake-ruby/" (20264 47814) "flymake-ruby.elc" "flymake-ruby.el" "../" "./")
+
+ ("/Users/chris/.emacs.d/el-get/" (20284 64224) "zencoding-mode/" "yasnippet/" "yari/" "yaml-mode/" "smooth-scrolling/" "scss-mode/" "rvm/" "ruby-mode/" "ruby-electric/" "rinari/" "regex-tool/" "psvn/" "php-mode-improved/" "pg/" "package/" "mustache-mode/" "markdown-mode/" "magit/" "js2-mode/" "ido-hacks/" "haml-mode/" "full-ack/" "flymake-ruby/" "el-get/" "dired-single/" "color-theme-zen-and-art/" "color-theme-twilight/" "color-theme-railscasts/" "color-theme/" "coffee-mode/" "auto-complete-yasnippet/" "auto-complete/" "anything/" ".status.el" ".loaddefs.el~" ".loaddefs.elc" ".loaddefs.el" ".DS_Store" "../" "./")
+
+ ("/Users/chris/.emacs-good/" (19791 36429) "vimrc" "vimperatorrc" "tmux.conf" "screenrc" "sake" "README.md" "rails.d/" "irbrc" "install.rb" "hgrc" "gitconfig" "gemrc" "emacs.d/" "emacs" "cmd-key-happy.lua" "bashrc" "bash_profile" "bash_aliases" "autotest.d/" "autotest" ".gitmodules" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/chris/Workspace/spinsdev/app/controllers/" (20284 64902) "wallslurp_controller.rb" "users_controller.rb" "twitter_oauth_controller.rb" "stations_controller.rb" "signup_controller.rb" "requests_controller.rb" "profiles_controller.rb" "pricing_controller.rb" "preview_controller.rb" "music_meeting_controller.rb" "markets_controller.rb" "legal_controller.rb" "iphone_controller.rb" "home_controller.rb" "geolocate_controller.rb" "embed_controller.rb" "dashboard_controller.rb" "coming_soon_controller.rb" "backoffice_controller.rb" "auto_complete_controller.rb" "artists_controller.rb" "application_controller.rb" "applicants_controller.rb" "api_controller.rb" ".#artists_controller.rb" "../" "./")
+
+ ("/Users/chris/Workspace/spinsdev/" (20265 28366) "vendor/" "tmp/" "ssl-cert/" "spins.fm_test" "spins.fm_development" "spec/" "script/" "README" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "doc/" "db/" "config.ru" "config/" "build/" "app/" ".sass-cache/" ".rvmrc" ".rspec" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/chris/Workspace/spinsassets/app/" (20261 46864) "views/" "models/" "mailers/" "helpers/" "controllers/" "assets/" ".DS_Store" "../" "./")
+
+ ("/Users/chris/Workspace/spinsdev/app/helpers/" (20265 24435) "stations_helper.rb" "sales_leads_helper.rb" "requests_helper.rb" "preview_helper.rb" "music_meeting_helper.rb" "iphone_helper.rb" "home_helper.rb" "geolocation_helper.rb" "embed_helper.rb" "data_viz_helper.rb" "dashboard_helper.rb" "backoffice_helper.rb" "auto_complete_helper.rb" "artists_helper.rb" "artist_aliases.rb" "application_helper.rb" "api_helper.rb" ".#application_helper.rb" "../" "./")
+
+ ("/Users/chris/.emacs.d/el-get/auto-complete-ruby/" (20265 23642) "auto-complete-ruby.el" "../" "./")
+
+ ("/Users/chris/Workspace/spinsdev/app/" (20262 32684) "views/" "models/" "mailers/" "helpers/" "controllers/" "assets/" ".DS_Store" "../" "./")
+
+ ("/Users/chris/.emacs.d-REALLY-GOOD/" (20265 3421) "vendor/" "restore.rb" "mkcode.el" "mkcode/" "install.rb" "emacs.el" ".gitmodules" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/chris/Desktop/" (20071 46996) "The Numbers Game.logic/" "Screen shot 2011-04-28 at 1.16.18 AM.png" "Screen shot 2011-04-28 at 1.16.03 AM.png" "Screen shot 2011-04-28 at 1.16.00 AM.png" "Screen shot 2010-11-22 at 2.35.08 PM.png" "Screen shot 2010-11-17 at 1.11.01 PM.png" "Screen shot 2010-11-17 at 1.10.44 PM.png" "Screen shot 2010-11-16 at 12.04.35 PM.png" "Screen shot 2010-11-16 at 12.04.28 PM.png" "Screen shot 2010-11-16 at 12.04.17 PM.png" "Screen shot 2010-11-16 at 12.04.07 PM.png" "Screen shot 2010-11-16 at 12.00.26 PM.png" "Screen shot 2010-11-16 at 12.00.23 PM.png" "Pics from Paras/" "Pics for FB/" "Good Pics/" ".localized" ".DS_Store" ".055gAvSaKWE=/" "../" "./")
+
+ ("/Users/chris/.emacs.d/vendor/yasnippet/snippets/" (19789 57218) "text-mode/" "sql-mode/" "snippet-mode/" "scala-mode/" "ruby-mode/" "rst-mode/" "python-mode/" "perl-mode/" "objc-mode/" "nxml-mode/" "markdown-mode/" "latex-mode/" "html-mode/" "f90-mode/" "erlang-mode/" "emacs-lisp-mode/" "css-mode/" "csharp-mode/" "cperl-mode/" "cc-mode/" "c-mode/" "c++-mode/" "../" "./")
+
+ ("/Users/chris/Workspace/real11/panel/js/" (19942 25831) "widget/" "utils.js" "text.js" "sitePanel.js" "settingsPanel.js" "services/" "panel.js" "pages-dialog.js" "model/" "messagesPanel.js" "mediaPanel.js" "login.js" "listingManager.min.js" "listingManager.js" "listing-dialog.js" "lib/" "leadsPanel.js" "jquery.tooltip.js" "jquery.sanitize.js" "jquery.quicksearch.js" "jquery.quicksand.js" "jquery.jeditable.js" "jquery.itemlist.js" "jquery.form.js" "jquery.autocomplete.js" "ext/" "contact_dummy_data.js" "contact-dialog.js" "config.php" "common.js" "ckeditor/" "avatarlistPanel.js" "ajaxupload.js" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/sm-test/" (19942 25917) "ub.mp3" "test.html" "test-loop.js" "test-loop.html" "test-ee.html" "SoundManager2/" "ontime.wav" "ontime.mp3" "ns10.jpg" "ns10-cone2.jpg" "ns10-cone.jpg" "my-distort.js" "keys.mp3" "jquery.js" "EE/" "drumloop.wav" "drumloop.ovw" "drumloop.mp3" "drumloop.aif" "distort.js" "distort.html" "dawser.js" "crash.wav" "crash.mp3" "canvas-circles.js" "360-player/" ".DS_Store" "../" "./")
+
+ ("/Users/chris/.emacs.d/vendor/yasnippet/" (20263 40272) "yasnippet.el" "yasnippet-debug.el" "snippets/" "README" "Rakefile" "extras/" "dropdown-list.el" "doc/" ".gitmodules" ".git/" "../" "./")
+
+ ("/Users/chris/.emacs.d/mkcode/" (20263 40366) "yasnippet.el" "utf-8.el" "twittering-mode.el" "todo.el" "theme.el" "temp_files.el" "tags.el" "tabs.el" "snippets.el" "shell.el" "sgml.el" "ruby.el" "ri-emacs.el" "python.el" "php.el" "modes.el" "markdown.el" "lisp.el" "javascript.el" "ido.el" "global.el" "github.el" "git.el" "fonts.el" "erlang.el" "erc.el" "env.el" "disabled.el" "dired.el" "diff.el" "defuns.el" "defunkt.el" "custom.el" "custom/" "cua.el" "bindings.el" "artist.el" ".#snippets.el" "../" "./")
+
+ ("/Users/" (19953 5389) "Shared/" "chris/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/chris/Workspace/ce/views/" (19942 25230) "stylesheets/" "layout.haml" "index.html.haml" ".DS_Store" ".#layout.haml" "../" "./")
+
+ ("/Users/chris/Workspace/real11/agent_sites/components/" (19939 31821) "topmenu.tpl" "sitemap_xml.tpl" "sitemap_html.tpl" "search.tpl" "render_widgets.tpl" "quicksearch2.tpl" "quicksearch.tpl" "propertydetails.tpl" "prequalify.tpl" "portallogin.tpl" "portal.tpl" "portal/" "newsletter.tpl" "login_register_overlay.tpl" "local_links.tpl" "listing_printable.tpl" "listing_detail_header.tpl" "latestblogs.tpl" "kw/" "jqueryslidemenu.tpl" "home_value.tpl" "head.tpl" "foreclosed.tpl" "footermenu2.tpl" "footermenu.tpl" "featured_single.tpl" "featured_four.tpl" "featured.tpl" "contentmenu.tpl" "contactform.tpl" "calculator_basic_only.tpl" "calculator_basic.tpl" "calculator_advanced.tpl" "blogsidebar.tpl" "blogpost.tpl" "bloglist.tpl" "blog_feed.tpl" "articles_seller.tpl" "articles_buyer.tpl" "addthis.tpl" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/real11/agent_sites/modules/" (19939 31821) "interface.AgentSiteModule.php" "class.sitemap.php" "class.prequalify.php" "class.portal.php" "class.newsletter.php" "class.local_links.php" "class.listing.php" "class.home_value.php" "class.foreclosed.php" "class.featured.php" "class.contact.php" "class.calculators.php" "class.blog.php" "class.articles_seller.php" "class.articles_buyer.php" "class.AgentSiteBaseModule.php" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/ce/" (19942 22825) "views/" "Vagrantfile" "README.md" "public/" "log/" "Gemfile.lock" "Gemfile" "cookbooks/" "config.ru" "config.rb" "build/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/chris/Workspace/chrisewald.com/" (19940 62965) "vendor/" "test/" "script/" "README" "Rakefile" "public/" "log/" "lib/" "Gemfile" "doc/" "db/" "config.ru" "config/" "app/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/chris/Workspace/real11/panel/" (19939 31818) "sitePanel.html" "settingsPanel.html" "resources" "panel.html" "pages-test.html" "messagesPanel.html" "mediaPanel.html" "listingsPanel.html" "listing-test.html" "leadsPanel.html" "js/" "index.html" "images/" "help.html" "filePoster.html" "css/" "contact-test.html" "common/" "avatarlistPanel.html" "amfphp/" "agent_sites/" ".svn/" ".DS_Store" "../" "./")
+
+ ("/Users/chris/Workspace/real11/panel/js/ckeditor/" (19939 36499) "themes/" "skins/" "plugins/" "LICENSE.html" "lang/" "INSTALL.html" "images/" "contents.css" "config.js" "ckeditor_source.js" "ckeditor_php5.php" "ckeditor_php4.php" "ckeditor_basic_source.js" "ckeditor_basic.js" "ckeditor.php" "ckeditor.pack" "ckeditor.js" "ckeditor.asp" "CHANGES.html" "adapters/" ".svn/" ".htaccess" ".#config.js" "../" "./")
+
+ ("/Users/chris/Workspace/real11/" (19936 17856) "website/" "test/" "templates/" "TAGS" "system/" "syndication/" "schema/" "resources" "requirejs/" "phplint.sh" "panel/" "mm/" "mls_import/" "misc/" "logs/" "LocalInfo_wireframe.jpg" "listings/" "lib/" "Doxyfile" "docs/" "defines.inc.php" "cron/" "core/" "contact-test.html" "config.inc.php" "common/" "bootstrap.php" "amfphp/" "agent_sites/" "admin/" ".svn/" ".DS_Store" "../" "./")
+
+ ("/Users/chris/Workspace/real11/panel/js/services/" (19939 31818) "trigger.js" "service.js" "idx.js" "contact.js" "campaign.js" "agentWebsite.js" "agentPlan.js" "agentMessage.js" "agentMedia.js" "agent.js" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/real11/panel/amfphp/services/com/realsource/" (19861 6865) "vo/" "business/" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/real11/panel/common/" (19861 6528) "getImage.php" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/real11/panel/agent_sites/" (19877 44594) "widgets/" "themes/" "robots.txt" "resources" "modules/" "js/" "index.php" "img/" "image_date.php" "fonts/" "css/" "components/" "common/" "cache/" "amfphp/" ".svn/" ".project" "../" "./")
+
+ ("/Users/chris/Workspace/real11/test/" (19905 45738) "panel/" "js/" "contact-test.html" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/real11/agent_sites/amfphp/" (19861 6865) "xmlrpc.php" "services/" "phpinfo.php" "json.php" "globals.php" "gateway.php" "file-upload.php" "core/" "browser/" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/real11/agent_sites/" (19877 44594) "widgets/" "themes/" "robots.txt" "resources" "modules/" "js/" "index.php" "img/" "image_date.php" "fonts/" "css/" "components/" "common/" "cache/" "amfphp/" ".svn/" ".project" "../" "./")
+
+ ("/Users/chris/Workspace/real11/agent_sites/themes/kw_black/templates/" (19885 50955) "prequalify.tpl" "portal.tpl" "listing_search.tpl" "listing_printable.tpl" "listing_detail.tpl" "index.tpl" "home_value.tpl" "header.tpl" "foreclosed.tpl" "footer.tpl" "featured.tpl" "content.tpl" "contact.tpl" "campaign_unsubscribe.tpl" "calculators.tpl" "blog.tpl" "articles.tpl" "404.tpl" ".svn/" ".#contact.tpl" "../" "./")
+
+ ("/Users/chris/Workspace/real11/amfphp/services/com/realsource/business/" (19885 45374) "MarketingMaterialService.php" "IDXService.php" "error_log" "DatabaseService.php" "ContactService.php" "CampaignService.php" "AuthorizationService.php" "AgentWebsiteService.php" "AgentSignupService.php" "AgentService.php" "AgentPlanService.php" "AgentMessageService.php" "AgentMediaService.php" "AdminService.php" ".svn/" "../" "./")
+
+ ("/Users/chris/Downloads/" (19883 55040) "yum-3.2.28.tar" "yum-3.2.28/" "wzrhpg300nh-pro-v24sp2-14998-2/" "wzrhpg300nh-pro-v24sp2-14998-1/" "wzrhpg300nh-pro-v24sp2-14998/" "WorkAgreement_CEwald.pdf" "wordlist45.txt" "wordlist44" "wordlist.tar" "word.lst.s.u.john.s.u.200.part01.rar" "wimpy_flv_player_mac/" "wikileaks_archive.7z.download/" "Who Wants to live forever - Piano on bottom.pdf" "vtigerCRM%20Vs%20SugarCRM.pdf" "vst-bs2b-2.1.0-win32bin/" "vmware-aircrack-ng-v4/" "vlc-1.1.2.dmg" "VirtualBox-4.0.2-69518-OSX.dmg" "UnRarX.app/" "ubuntu_server_10.10_i386_.6000240.TPB.torrent" "ubuntu-10.10-server-i386.iso.download/" "ubuntu-10.10-server-amd64.iso.download/" "twilio amended and restated 2008 stock plan.pdf" "tumblr_ldpin06Ie81qb0p52o1_500.jpg" "Tibetan Logic.torrent" "thawte-roots.zip" "Thawte Root Certificates/" "TARA Toronto Brochure - 2009.pdf" "TARA Application.pdf" "svn-refcard.pdf" "Sv-svenska.ogg" "subversion-cheat-sheet-v1.pdf" "Subversion-1.6.12-10.6.x.dmg" "soundmanagerv297a-20110306/" "Slideshow/" "Skype_2.8.0.851.dmg" "silverman_usthem.jpg" "Silverlight.pkg/" "sequel-pro-0.9.8.dmg" "Seashore.app/" "SCAPE4.tif" "SCAPE4-1.tif" "ruby-1.9.2-p0.tar.bz2" "Richardson.Software.RazorSQL.v5.4.0.Incl.Keymaker-AGAiN.txt" "Richardson.Software.RazorSQL.v5.4.0.Incl.Keymaker-AGAiN.rar" "RHT-SG-2011.pdf" "rethelongawaitedwaitingforbobbyphotos/" "Resume current.pdf" "rEFIt-0.14.dmg" "RDC201_ALL.dmg" "razorsql5_4_0.dmg" "python-apt_0.7.8.tar" "python-apt-0.7.8/" "PwnageTool_4.2.dmg.6176918.TPB.torrent" "PwnageTool_4.2.dmg" "PwnageTool_4.1.3_Unlock_Edition.dmg" "postgresql-9.0.3-1-osx.dmg" "portfolio.js" "poor_little_rich_girl_su_librivox_64kb_mp3.zip.download/" "Picture 036.jpg" "Picture 007.jpg" "phptrb83nPM.jpg" "php_sim-1/" "php_sim/" "php_aim-1/" "php_aim/" "PDFpen.app/" "PastedGraphic-1.tiff" "p7zip_9.13_src_all.tar.bz2.download/" "original - 01.jpg" "OReilly.HTML5.Up.and.Running.2010.pdf" "one submission/" "new TARA location.doc" "music.png" "MSTRKRFT-Beards-Again.mp3" "Miro.dmg" "mercurial-1.8.2_20110401-py2.6-macosx10.6/" "Memo.m4a" "MARS1.pps" "MAMP_MAMP_PRO_1.9.4.dmg" "MacProVideo - Logic 204 - Ultrabeat Unleashed.torrent" "MacPorts-1.9.1.pkg/" "macdrive_8.0.7.38_en_setup.exe" "Mac 0S X 10.6 Snow Leopard dmg[1337x.org].torrent" "longstreet/" "login.gif" "Logic Studio 9.1.1 Update + Serials -WORKING-.torrent" "LivingSpace1 Application#3.doc" "L33t.rar.download/" "koans/" "KisMAC-0.3.3.dmg" "KisMAC-0.2.99.dmg" "Keka-0.1.4.2.dmg" "Keka-0-1.1.4.2.dmg" "jquery-validate/" "jquery-ui-1/" "John Britton NH Option Grant.pdf" "JLG-Inconiglios_release.pdf" "JellyVNC.zip" "JellyVNC.app/" "JellyfiSSH.dmg" "Jamie%20Roth%20Resume%202010-1.pdf" "InstallPlay65.exe.download/" "InstallGammonEmpire.exe.download/" "InstallGammonEmpire-1.exe.download/" "install_flash_player_osx_ub.dmg" "IMM1294B.PDF" "imgvc8TiQ.jpg" "imgqIlCej.jpg" "imgp6yxTa.jpg" "imgCB4PLW.jpg" "IMG_4827_2.jpg" "IMG_4731.jpg" "hydroplane.aif" "HT1151.html" "HelpSpot_License.txt" "hashkiller.com.rar" "hashkiller.com.dic" "Harmony Box.vst/" "green/" "gp_mac_rc6_final.zip.download/" "gp_mac_rc6_1/" "git-1.7.2.2-intel-leopard.dmg" "gallery-objects/" "Future Rock - Sugar-Coated Bullets - 2006 (CD - MP3 - 320).torrent" "Frank Zappa - Lumpy Gravy - 1972 (Vinyl - MP3 - 320).torrent" "FireWire_OSX_1_8_4-3.dmg" "Firefox 3.6.8.dmg" "eStatement.pdf" "Era - Ameno arranged for Ensemble.pdf" "enen$mercury-2007.pdf" "dump with 4.kismac" "drums_1.wav.download/" "Dropbox 0.7.110.dmg" "debian-507-i386-netinst.iso" "debian-506-ia64-netinst.iso" "debian-506-amd64-netinst.iso" "Counter Point in Composition.pdf" "Coldplay - The Scientist.pdf" "coffee.el" "Coda-1.7.zip.download/" "Coda-1.7.zip" "CocktailSLE.dmg" "ChrisPics.zip" "ChrisPics/" "Cheat Sheet Subversion.pdf" "Case Mutation.rar" "Case Mutation.dic" "cakephp-cakephp-fd82f1b/" "BULLETPROOF_Commentary.txt" "Block Activation Script/" "blackra1n.app/" "bg_vox.wav.download/" "bg_vox-2.wav.download/" "bg_vox-1.wav.download/" "Aristotle - Rhetoric, Poetics and Logic - 1992 (AAC - 32kbps).torrent" "Aquamacs-Emacs-2.1.dmg" "Aquamacs-Emacs-2.0.dmg" "Apple Logic 9.1.1 Update + System ID/" "Antonio Carlos Jobim-Samba de Uma Nota So-Sheetzbox.pdf" "amsyn.exe.download/" "Alarm Clock (2.4.5).dmg" "Adobe Photoshop CS4 [k'd] - Mac OS X.torrent" "ACI14W10-04.mp3.download/" "About Downloads.pdf" "Ableton Suite v8.2.1 Mac Os X By Adrian Dennis[1337x.org].torrent" "[isoHunt] Waves.Complete.v8r3.AU.VST.VST3.RTAS.TDM.MAC.OSX.Intel-ATeam.torrent" "[isoHunt] ubuntu-10.10-server-amd64.iso.torrent" "[isoHunt] Serial_Box_Feb._2010.5330117.TPB.torrent" "[isoHunt] PwnageTool_4.2.dmg.6176918.TPB.torrent" "[isoHunt] ProTools HD 9.torrent" "[isoHunt] Mac 0S X 10.6 Snow Leopard dmg.torrent" "[isoHunt] Ableton.Suite.v8.1.MAC.OSX.ISO-ArCADE.5202643.TPB.torrent" "4ca52b4679c1c.jpg" "4ca52b4679c1c-1.jpg" "3Riversun.jpg" "173.203.51.165" "173-5.203.51.165" "173-4.203.51.165" "173-3.203.51.165" "173-2.203.51.165" "173-1.203.51.165" "1252_How_We_Can_Be_the_Silver_Lining_of_the_Cloud.ogv" "0...9999999.rar" "0...9999999.dic" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/chris/Workspace/sm-test/SoundManager2/" (19848 36923) "troubleshoot/" "swf/" "src/" "script/" "README.rdoc" "license.txt" "index.html" "doc/" "demo/" "build.xml" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/chris/Workspace/sm-test/SoundManager2/demo/" (19848 37001) "template/" "play-mp3-links/" "page-player/" "mpc/" "mp3-player-button/" "index.js" "index.html" "index.css" "flashblock/" "debug.css" "christmas-lights/" "api/" "animation-2b/" "animation-2a/" "animation-1/" "animation/" "_mp3/" "_image/" "360-player/" ".DS_Store" "../" "./")
+
+ ("/Users/chris/Workspace/real11/website/" (19861 6703) "signup-free.html" "robots.txt" "privacy.html" "pricing.html" "overview.html" "js/" "index.html" "images/" "google353c936e086a002e.html" "favicon.ico" "details/" "css/" "contact.php" "contact.html" "authorize_net/" "amfphp/" "about.html" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/real11/website/images/" (19861 6703) "slider-text-8.png" "slider-text-24.png" "signup-validate-24.png" "signup-theme-buttons-24.png" "signup-theme-24.png" "signup-skip-mls-24.png" "signup-select-box-24.png" "signup-select-24.png" "signup-now-24.png" "signup-mls-alert-24.png" "signup-icons-keys-24.png" "signup-icons-24.png" "signup-free-header-24.png" "signup-form-loading.gif" "signup-form-header-24.png" "signup-email-ribbon-24.png" "signup-done-24.png" "signup-corner-24.png" "signup-continue-24.png" "signup-compare-24.png" "signup-choose-24.png" "signup-availible-loading.gif" "signup-availible-24.png" "send-request-orange-24.png" "send-request-green-24.png" "quote-customer-24.png" "quote-box-24.png" "question-8.png" "question-24.png" "progress-bar-24.png" "privacy-policy-24.png" "pricing-marketing-24.png" "pricing-info-24.png" "pricing-image.jpg" "pricing-idx-info-24.png" "prices-old-24.png" "prices-marketing-24.png" "prices-24.png" "preview-box-24.png" "overview-tabs-24.png" "overview-select-24.png" "overview-marketing.png" "overview-controls-24.png" "overview-content-bg.png" "overview-buttons.png" "overview/" "overlay-logo-24.png" "overlay-image3-24.png" "overlay-image2-24.png" "overlay-image1-24.png" "overlay-close-24.png" "overlay-buttons-24.png" "overlay-box-24.png" "more-info-24.png" "menu-other-8.png" "menu-other-24.png" "menu-nav-8.png" "menu-nav-24.png" "logo-8.png" "logo-24.png" "learn-more-8.png" "learn-more-24.png" "large-house-24.png" "invite-envelope-24.png" "invite-arrow-24.png" "instant-access-8.png" "instant-access-24.png" "index/" "image-frame-24.png" "header-box-24.png" "head-banner-24.png" "free-trial-small-24.png" "free-trial-24.png" "foot-banner-24.png" "features-back-24.png" "email-submit-8.png" "email-submit-24.png" "email-social-24.png" "email-form-24.png" "email-env-24.png" "did-you-know-24.png" "detail-info-24.png" "detail-header3-24.png" "detail-header2-24.png" "detail-header1-24.png" "detail-content-bottom-24.png" "detail-content-body-24.png" "detail-content-24.png" "detail/" "demo-video-8.png" "demo-video-24.png" "content-top-8.png" "content-top-24.png" "content-bottom-8.png" "content-bottom-24.png" "content-background.png" "contact-image.png" "contact-image.jpg" "bullet-8.png" "bullet-24.png" "blog-icon-24.png" "blog-buttons-24.png" "blog-box-24.png" "background.jpg" "agent-sites-24.png" "about-right-24.png" "about-left-24.png" "about-image.png" "about-image.jpg" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/real11/website/images/detail/" (19861 6651) "thumb/" "full/" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/real11/website/images/detail/full/" (19861 6693) "templates03.png" "templates02.png" "templates01.png" "syndication03.png" "syndication02.png" "syndication01.png" "site03.png" "site02.png" "site01.png" "single03.png" "single02.png" "single01.png" "preview15.png" "preview14.png" "preview13.png" "preview12.png" "preview11.png" "preview10.png" "preview09.png" "preview08.png" "preview07.png" "preview06.png" "preview05.png" "preview04.png" "preview03.png" "preview02.png" "preview01.png" "listing03.png" "listing02.png" "listing01.png" "lead03.png" "lead02.png" "lead01.png" "customer03.png" "customer02.png" "customer01.png" "content03.png" "content02.png" "content01.png" "capture03.png" "capture02.png" "capture01.png" "blog03.png" "blog02.png" "blog01.png" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/artistswanted/" (19830 38031) "validator.js" "tick.mp3" "testing/" "tb_imgEmKd3v.jpg" "slideshow/" "singular/" "send_report.php.15" "send_report.php.14" "send_report.php.13" "send_report.php.12" "send_report.php.11" "send_report.php.10" "see.me-trunk/" "see.me/" "repo-setup.sh~" "repo-setup.sh" "portfolio.js" "portfolio.css" "PopBox.js" "photo_submission.php" "opencall/" "olp-dev/" "jquery.cookie.js" "includes/" "include_footer.php" "imgNmG4cR.jpg" "imgEmKd3v.jpg" "highslide/" "faq.php" "facebook_icon.jpg" "doajaxfileupload.php" "delete_img.php" "contact2.php" "confirm.php" "config.xml" "check-username.php" "cakephp-cakephp-fd82f1b/" "awfull/" "aw-refactored-trunk/" "_phpinfo_.php" ".DS_Store" "../" "./")
+
+ ("/Users/chris/Workspace/real11/amfphp/" (19861 6865) "xmlrpc.php" "services/" "phpinfo.php" "json.php" "globals.php" "gateway.php" "file-upload.php" "core/" "browser/" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/lernanta/templates/" (19791 29754) "users/" "statuses/" "relationships/" "projects/" "preferences/" "messages/" "events/" "drumbeatmail/" "drumbeat/" "dashboard/" "base.html" "activity/" "_footer.html" "500.html" "404.html" "../" "./")
+
+ ("/Users/chris/.emacs.d/vendor/yasnippet/snippets/ruby-mode/definitions/" (19789 57218) "w" "rw" "r" "mm" "Comp" "cls" "cla" "am" "../" "./")
+
+ ("/Users/chris/.emacs.d/vendor/yasnippet/snippets/ruby-mode/" (19789 57218) "general/" "definitions/" "control structure/" "collections/" ".yas-parents" ".yas-make-groups" "../" "./")
+
+ ("/Users/chris/Workspace/soundm/" (19791 36523) "vendor/" "tmp/" "test/" "TAGS" "script/" "README" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "doc/" "db/" "config.ru" "config/" "app/" ".gitignore" "../" "./")
+
+ ("/Users/chris/.emacs-good/emacs.d/vendor/" (19791 27320) "yasnippets-shoulda/" "yasnippets-rails/" "yasnippet/" "yaml-mode/" "textile-mode/" "sass-mode.el" "rvm.el/" "ruby-mode/" "ruby-electric/" "rinari/" "ri-emacs/" "rcodetools.el" "psvn/" "mode-line-bell.el" "maxframe.el/" "markdown-mode/" "magit/" "lua-mode/" "js2-mode/" "jekyll.el/" "inf-ruby/" "htmlize/" "haml-mode.el" "full-ack/" "filladapt/" "feature-mode.el/" "csv-mode.el" "color-theme-ir-black/" "color-theme-arjen/" "color-theme/" "coffee-mode/" "cdargs.el" "auctex/" "../" "./")
+
+ ("/Users/chris/.emacs-good/emacs.d/rmm5t/" (19791 30932) "zoom.el" "yasnippet.el" "yaml-mode.el" "utf-8.el" "textile-mode.el" "tabs.el" "scratch.el" "rvm.el" "ruby-mode.el" "rinari.el" "ri-emacs.el" "rectangle.el" "recentf.el" "rails.el" "psvn.el" "org.el" "maxframe.el" "markdown-mode.el" "magit.el" "mac.el" "lua-mode.el" "js2-mode.el" "jekyll.el" "javascript.el" "iswitchb.el" "ido.el" "htmlize.el" "hl-line.el" "grep.el" "global.el" "full-ack.el" "fonts.el" "flymake.el" "env.el" "disabled.el" "dired.el" "diff.el" "defuns.el" "csv-mode.el" "color-theme.el" "cdargs.el" "bindings.el" "auctex.el" "../" "./")
+
+ ("/Users/chris/Workspace/lernanta/" (19789 21959) "urls.py" "templates/" "settings_local.dist.py" "settings.py" "requirements/" "README.rst" "media/" "manage.py" "LICENSE.txt" "apps/" "__init__.py" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/chris/.emacs-good/emacs.d/" (19791 29482) "vendor/" "rmm5t.el" "rmm5t/" ".#rmm5t.el" "../" "./")
+
+ ("/Users/chris/Documents/artistswanted/" (19723 44059) "portfolio_vox.php" "portfolio.php" "artistswanted Invoice 8:16-10:15.html" "artistswanted Invoice 7:16-8:15.html" "artistswanted Invoice 7:01-7:15.html" "artistswanted Invoice 6:15-6:30.html" "artistswanted Invoice 6:09-6:14.html" "artistswanted Invoice 11:01-12:15.html" "artistswanted Invoice 10:16-10:31.html" ".DS_Store" "../" "./")
+
+ ("/Users/chris/.emacs.d/defunkt/" (19790 51071) "twittering-mode.el" "todo.el" "theme.el" "temp_files.el" "shell.el" "sgml.el" "ruby.el" "python.el" "modes.el" "markdown.el" "lisp.el" "javascript.el" "global.el" "github.el" "git.el" "erlang.el" "erc.el" "dired.el" "defuns.el" "defunkt.el" "custom.el" "custom/" "coffee.el" "bindings.el" "artist.el" "../" "./")
+
+ ("/Users/chris/.emacs-share/" (19789 52182) "vendor/" "restore.rb" "README.markdown" "nebirhos.el" "nebirhos/" "install.rb" "emacs.el" "defunkt.el" "defunkt/" ".gitmodules" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/chris/.emacs-lib/defunkt/" (19789 51018) "twittering-mode.el" "todo.el" "theme.el" "temp_files.el" "shell.el" "sgml.el" "ruby.el" "python.el" "modes.el" "markdown.el" "lisp.el" "javascript.el" "global.el" "github.el" "git.el" "erlang.el" "erc.el" "dired.el" "defuns.el" "defunkt.el" "custom/" "coffee.el" "bindings.el" "artist.el" ".#bindings.el" "../" "./")
+
+ ("/Users/chris/emacs/" (19789 20887) "vendor/" "restore.rb" "README.markdown" "nebirhos.el" "nebirhos/" "install.rb" "emacs.el" "defunkt.el" "defunkt/" ".gitmodules" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/chris/Workspace/aw-refactored-trunk/" (19668 9025) "xml.html" "xBkp/" "video.php" "UploadMail_2.php" "upload_help.php" "terms.php" "submission_1.php" "staff.php" "service.rate.php" "selected.php" "rules.php" "privacy.php" "previous.php" "prev_selfex.php" "prev_exposure.php" "portfolioView.php" "portfolioStory.php" "portfolio.php" "photo_submission.php" "onelife-functions.php" "new_site/" "mysql.php" "mysql-example.php" "mission.php" "mailer/" "mail_templates/" "login.php" "js/" "it/" "ipn.php" "index.php" "includes/" "include_voting.php" "include_votepop.php" "include_headercode.php" "include_header.php" "include_footer.php" "include_contactbox.php" "images_contest/" "images/" "history.php" "graphics/" "functions.php" "forms/" "favicon.ico" "fancybox/" "exposure.php" "exposure/" "doajaxfileupload.php" "css/" "Copy of index.php" "contest_works.php" "contest_sidebar_apply.php" "contest_sidebar.php" "contest_prizes.php" "contest_menu_home.php" "contest_menu.php" "contest_judges.php" "contest_index.php" "contact_thanks.php" "contact2.php" "contact.php" "contact-dev.php" "confirm.php" "config.php" "config-example.php" "classes/" "class.upload/" "checkout.php" "check-username.php" "carousel.css" "bootstrap.php" "awards/" "aw-imagemagick.class.php" "authorize.php" "art/" "apache2-default/" "account.php" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/see.me-trunk/" (19668 7457) "vendors/" "README" "plugins/" "index.php" "cake/" "app/" ".svn/" "../" "./")
+
+ ("/Users/chris/Workspace/olp-dev/" (19650 40310) "xml_utils.php" "xBkp/" "xadmin/" "x-judge.php" "x-evaluate.php" "validator.js" "upload_help.php" "tick.mp3" "thumb.php" "theartlist/" "terms.php" "templates" "template.php" "submission_1.php" "slideshow/" "singular/" "service.rate.php" "send_report.php" "Scripts/" "rules.php" "retitle/" "rangefinder/" "promo/" "prizes.php" "privacy.php" "portfolioView.php" "portfolioStory.php" "portfolio.php" "portfolio.css" "portfolio(EDIT_9-27-10).php" "portfolio(EDIT).php" "popphoto/" "PopBox.js" "phpthumb/" "photocomp/" "photo_submission.php" "photo_payment_test.php" "pdn/" "onelifephotos.com/" "onelife-functions.php" "mysql.php-example" "modules/" "mailer/" "mail_templates/" "logs/" "logout.php" "login.php" "login(EDIT).php" "legends.php" "judges.php" "jquery.validate.js" "jquery.js" "jquery.cookie.js" "jquery-ui-1.8.4.min.js" "jpg/" "ipn_nopay.php" "ipn.php" "index.php" "index(EDIT).php" "includes.php" "includes/" "include_pageheader.php" "include_headercode.php" "include_header.php" "include_header(EDIT).php" "include_footer.php" "include_contactbox.php" "images/" "humble/" "howitworks.php" "homepage.php" "history.php" "highslide/" "header.php" "galleries.php" "functions.php" "foto8/" "footer.php" "faq.php" "ephotozine/" "easyphpthumbnail.class.php" "dphotojournal/" "doajaxfileupload.php" "deviant/" "dev" "delete_img.php" "db_scripts/" "countdown.swf" "countdown/" "contact_thanks.php" "contact_thank_you.php" "contact2.php" "contact.php" "confirm.php" "config.xml" "config.php-example" "classes/" "class.upload/" "checkout.php" "check-username.php" "authorize.php" "artltd/" "artdeadline/" "artcall_v1.css" "artcall.css" "artcalendar/" "ajaxfileupload.js" "account.php" "account(EDIT).php" "_phpinfo_.php" "_contact.php" "3dgallery.xml" ".svn/" "../" "./")
+
+ ("/Users/chris/.emacs-lib/" (19646 64838) "yasnippet-0.6.1c/" "smex/" "psvn/" "multi-term/" "icicles/" "ecb-2.40/" "color-theme-6.6.0/" "cedet-1.0pre6/" "#psvn.el#" "../" "./")
+
+ ("/Users/chris/Workspace/zown/config/" (19592 15914) "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/chris/Workspace/zown/db/migrate/" (19592 19124) "20100909024655_create_clusters_nodes_join.rb" "20100909024539_create_clusters.rb" "20100909020618_create_nodes_sets_join.rb" "20100909020109_create_captures.rb" "20100909015906_create_nodes.rb" "20100909015628_create_runners.rb" "20100909015603_create_teams.rb" "20100909015355_create_games.rb" ".#20100909024655_create_clusters_nodes_join.rb" ".#20100909020618_create_nodes_sets_join.rb" "../" "./")
+
+ ("/Users/chris/Workspace/zown/" (19592 15039) "vendor/" "test/" "script/" "README" "Rakefile" "public/" "lib/" "Gemfile.lock" "Gemfile" "doc/" "db/" "config.ru" "config/" "app/" ".gitignore" ".git/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
+
